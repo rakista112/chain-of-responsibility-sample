@@ -1,0 +1,923 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"branch",
+				"branch_clause"
+			],
+			[
+				"all",
+				"all_branches"
+			],
+			[
+				"branc",
+				"branchEl"
+			],
+			[
+				"bra",
+				"branchEl"
+			],
+			[
+				"loa",
+				"loadBranches"
+			],
+			[
+				"ac",
+				"account_no"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_row"
+			],
+			[
+				"accoun",
+				"account_stmt"
+			],
+			[
+				"accont",
+				"account_type_stmt"
+			],
+			[
+				"product",
+				"product_type"
+			],
+			[
+				"account_hol",
+				"account_holder_stmt"
+			],
+			[
+				"loan",
+				"loan_payment_stmt"
+			],
+			[
+				"rec",
+				"records"
+			],
+			[
+				"security",
+				"securityCodes"
+			],
+			[
+				"coll",
+				"collated_report_parts"
+			],
+			[
+				"sort",
+				"sorted_report_parts"
+			],
+			[
+				"merge",
+				"merged_particulars"
+			],
+			[
+				"forwar",
+				"forwarded_port"
+			],
+			[
+				"sor",
+				"sorted_report_parts"
+			],
+			[
+				"princi",
+				"principal_balance"
+			],
+			[
+				"total",
+				"total_fields"
+			],
+			[
+				"extend",
+				"extend_defaults"
+			],
+			[
+				"public",
+				"public_network"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "close",
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"fo",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"format ",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"diffy",
+				"Diffy Compare"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"file log",
+				"SVN: (File) Log"
+			],
+			[
+				"folder com",
+				"SVN: (Folder) Commit"
+			],
+			[
+				"folder diff",
+				"SVN: (Folder) Diff"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"folder comm",
+				"SVN: (Folder) Commit"
+			],
+			[
+				"file diff",
+				"SVN: (File) Diff"
+			],
+			[
+				"log",
+				"SVN: Log"
+			],
+			[
+				"folder commi",
+				"SVN: (Folder) Commit"
+			],
+			[
+				"file commi",
+				"SVN: (File) Commit"
+			],
+			[
+				"commit",
+				"SVN: Commit…"
+			],
+			[
+				"update",
+				"SVN: Update"
+			],
+			[
+				"file commit",
+				"SVN: (File) Commit"
+			],
+			[
+				"comm",
+				"SVN: Commit…"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"file comm",
+				"SVN: (File) Commit"
+			],
+			[
+				"sql",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"folder comit",
+				"SVN: (Folder) Commit"
+			],
+			[
+				"for",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"exe",
+				"ST: Execute"
+			],
+			[
+				"setup",
+				"ST: Setup Connections"
+			],
+			[
+				"table de",
+				"ST: Table Description"
+			],
+			[
+				"table",
+				"ST: Table Description"
+			],
+			[
+				"folder  com",
+				"SVN: (Folder) Commit"
+			],
+			[
+				"folder commit",
+				"SVN: (Folder) Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"unli",
+				"RageUtils: Unlistify"
+			],
+			[
+				"un",
+				"RageUtils: Unlistify"
+			],
+			[
+				"listi",
+				"RageUtils: SQL Listify"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/chain"
+	],
+	"file_history":
+	[
+		"/var/www/html/maf.php",
+		"/var/www/html/maf.sql",
+		"/home/rakista112/dumps/maf.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/client_listings_status/ap.branches.php",
+		"/tmp/sublime-svn-1464687430/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/client_listings_status/ap.report.main.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/transaction_reading/j.reading.js",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/actual_disbursement/ap.adb.generate.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/autodebit2/ap.autodebit.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/client_listings_status/j.client.listings.status.js",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/time_deposit_accruals/ap.time_deposit_accruals.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/time_deposit_schedule/class.td_schedule_report.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/maf_payment/ap.maf_payment.php",
+		"/tmp/sublime-svn-1464682696/SVN",
+		"/home/rakista112/Programs/DBI/DBI/config/config.db.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/client_listings_status/class.lib.clntlststat.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/client_listings_status/main.client.listings.status.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/client_listings_status/ap.report.csv.php",
+		"/tmp/sublime-svn-1464671786/SVN",
+		"/home/rakista112/Programs/DBI/DBI/library/lib.checks.php",
+		"/home/rakista112/Programs/DBI/DBI/library/lib.autodebit.php",
+		"/home/rakista112/Programs/DBI/DBI/loans/modules/disburseLumpsum/script.disbursement.js",
+		"/tmp/sublime-svn-1464576714/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/autodebit/ap.autodebit.php",
+		"/tmp/sublime-svn-1464574928/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/time_deposit_schedule/ap.time_deposit_schedule.php",
+		"/tmp/sublime-svn-1464574808/SVN",
+		"/tmp/sublime-svn-1464574702/SVN",
+		"/home/rakista112/Programs/DBI/DBI/library/User.php",
+		"/home/rakista112/Programs/DBI/DBI/library/Office.php",
+		"/tmp/sublime-svn-1464169599/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/transaction_reading/main.trans.reading.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/transaction_reading/ap.report.csv.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/transaction_reading/ap.branches.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/transaction_reading/class.lib.reading.php",
+		"/tmp/sublime-svn-1464162474/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/transaction_reading/ap.generate.php",
+		"/tmp/sublime-svn-1464155816/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/amla/ap.amla.php",
+		"/home/rakista112/Programs/DBI/DBI/config/casa.config.db.php",
+		"/home/rakista112/Programs/DBI/DBI/classes/class.creditFile.php",
+		"/tmp/sublime-svn-1463729724/SVN",
+		"/home/rakista112/Downloads/00120162203113450.cfx",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/amla/classes/class.AMLAReport.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/dcs/ap.dcs.php",
+		"/home/rakista112/Programs/DBI/ATMCommunication/src/main/ATMCommunicator.java",
+		"/home/rakista112/Programs/DBI/ATMCommunication/atmJAR/run.sh",
+		"/home/rakista112/Programs/DBI/DBI.sublime-project",
+		"/home/rakista112/Programs/DBI/Vagrantfile",
+		"/home/rakista112/Programs/DBI/DBI/library/Account.php",
+		"/home/rakista112/Programs/DBI/DBI/casa/modules/rollover/ap.rollover.php",
+		"/home/rakista112/Programs/DBI/DBI/casa/modules/rollover/script.rollover.js",
+		"/home/rakista112/Programs/DBI/DBI/library/TimeDeposit.php",
+		"/tmp/sublime-svn-1462158568/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/bsp/classes/parts/class.OutreachCentersReportPart.php",
+		"/tmp/sublime-svn-1461897353/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/bsp/classes/class.BSPReportPart.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/bsp/classes/class.BSPReportPartFactory.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/dcs/ui.dcs.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/dcs/script.dcs.js",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/dcs/style.dcs.css",
+		"/tmp/sublime-svn-1461835409/SVN",
+		"/tmp/sublime-svn-1461834505/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/maf_transaction_history/script.maf_transaction_history.js",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/maf_transaction_history/ap.maf_transaction_history.php",
+		"/home/rakista112/Programs/DBI/DBI/library/lib.maf.php",
+		"/tmp/sublime-svn-1461827220/SVN",
+		"/tmp/sublime-svn-1461826045/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/maf_transaction_history/js/script.report-grid.js",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/maf_transaction_history/print_csv.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/maf_transaction_history/classes/class.transaction_history_pdf.php",
+		"/tmp/sublime-svn-1461824292/SVN",
+		"/tmp/sublime-svn-1461822546/SVN",
+		"/home/rakista112/Programs/DBI/DBI/transactions/modules/dcs_center_collection/ap.dcs_center_collection.php",
+		"/tmp/sublime-svn-1461810277/SVN",
+		"/tmp/sublime-svn-1461810260/SVN",
+		"/tmp/sublime-svn-1461809084/SVN",
+		"/home/rakista112/Games/candybox2/1.sav",
+		"/tmp/sublime-svn-1461748749/SVN",
+		"/tmp/sublime-svn-1461748352/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/amla/classes/models/class.AccountHolderDetail.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/amla/classes/class.DetailsBuilder.php",
+		"/tmp/sublime-svn-1461743293/SVN",
+		"/home/rakista112/Programs/DBI/DBI/casa/modules/credit_file_management/ap.credit_file_management.php",
+		"/tmp/sublime-svn-1461724742/SVN",
+		"/home/rakista112/.config/sublime-text-3/Packages/User/SQLToolsConnections.sublime-settings",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/bsp/classes/parts/class.MemberCentersReportPart.php",
+		"/tmp/sublime-svn-1461722894/SVN",
+		"/tmp/sublime-svn-1461722888/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/bsp/classes/parts/class.TermOfLoans.php",
+		"/home/rakista112/Programs/react-contacts/public/index.html",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/bsp/classes/parts/class.SecurityReportPart.php",
+		"/tmp/sublime-svn-1461662929/SVN",
+		"/home/rakista112/Programs/DBI/react-contacts/src/helloworld.js",
+		"/home/rakista112/Programs/DBI/react-contacts/helloworld.html",
+		"/home/rakista112/Programs/react-contacts/helloworld.html",
+		"/tmp/sublime-svn-1461654167/SVN",
+		"/home/rakista112/Programs/DBI/DBI/casa/modules/rollover/ui.rollover.php",
+		"/tmp/sublime-svn-1461650846/SVN",
+		"/tmp/sublime-svn-1461643466/SVN",
+		"/tmp/sublime-svn-1461642014/SVN",
+		"/home/rakista112/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/tmp/sublime-svn-1461641063/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/bsp/classes/parts/class.RepaymentSchedulePart.php",
+		"/home/rakista112/Programs/DBI/DBI/library/DCS.php",
+		"/tmp/sublime-svn-1461576939/SVN",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/bsp/classes/class.BSPReportBuilder.php",
+		"/home/rakista112/Programs/DBI/DBI/reports/modules/bsp/classes/parts/class.AgingUnsecuredCollectiveAssessment.php",
+		"/home/rakista112/Programs/contacts/Vagrantfile",
+		"/home/rakista112/Programs/DBI/DBI/header/header.online.php",
+		"/home/rakista112/Programs/DBI/DBI/library/lib.function.common.php",
+		"/tmp/sublime-svn-1461565274/SVN",
+		"/home/rakista112/Programs/DBI/DBI/classes/class.userinfo.php",
+		"/home/rakista112/Programs/DBI/DBI/header/header.offline.php",
+		"/tmp/sublime-svn-1461562833/SVN",
+		"/tmp/sublime-svn-1461562734/SVN",
+		"/tmp/sublime-svn-1461562048/SVN",
+		"/tmp/sublime-svn-1461561430/SVN",
+		"/home/rakista112/.config/sublime-text-3/Packages/User/SVN.errors.log",
+		"/tmp/sublime-svn-1461558626/SVN",
+		"/tmp/sublime-svn-1461557194/SVN",
+		"/tmp/sublime-svn-1461553844/SVN",
+		"/tmp/sublime-svn-1461550810/SVN",
+		"/home/rakista112/Programs/DBI/index.html",
+		"/home/rakista112/Programs/web/reports/modules/bsp/classes/parts/class.TermOfLoans.php",
+		"/home/rakista112/Programs/web/reports/modules/bsp/classes/class.BSPReportPartFactory.php",
+		"/tmp/sublime-svn-1461317581/SVN",
+		"/tmp/sublime-svn-1461316592/SVN"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/rakista112/Programs/DBI/DBI/reports/modules/client_listings_status",
+			"/home/rakista112/Programs/DBI/DBI/reports/modules/transaction_reading",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GROUP",
+			"branch",
+			"Branch:",
+			"branch:",
+			"transaction",
+			"status",
+			"pdf",
+			"transaction",
+			"length = 1",
+			"length(",
+			"length",
+			"children(",
+			"children()",
+			"length(1",
+			"branchEl",
+			"branchid",
+			"branch",
+			"$block",
+			"deposit",
+			"self::",
+			"self:: ",
+			"withdraw",
+			"980",
+			"lib.maf.php",
+			"dcs-af",
+			"account",
+			"30200",
+			"echo",
+			"transaction",
+			"tr_code",
+			"transaction_code",
+			"SELECT \n*\n     FROM\n\nloan_ledger_details lld \nJOIN\n\n system_codes sc\n\nON lld.transaction_code = sc.code_id\n\n     WHERE group_id = '418'\n\n       AND tr_type IN ('420002' ,\n                       '420003',\n                       '420004',\n                       '420007')\n       AND code_id NOT IN ('418008' ,\n                           '418024',\n                           '418025')\n       AND reverse_code IS NOT NULL",
+			"echo",
+			"var_dump",
+			"' + customer.customer_name + '",
+			"' + customer.due + '",
+			"' \\+ (\\S)* \\+ '",
+			"ctrl+t",
+			"account_no",
+			"unshi",
+			"cmp_particular_order",
+			"usort",
+			"sort",
+			"sort(",
+			",",
+			")",
+			";",
+			"apple",
+			"echo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			",",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SQLTools Result":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chain.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"client_list",
+				"DBI/reports/modules/client_listings_status/ap.branches.php"
+			],
+			[
+				"client_rea",
+				"DBI/reports/modules/client_listings_status/ap.report.main.php"
+			],
+			[
+				"transactionread",
+				"DBI/reports/modules/transaction_reading/j.reading.js"
+			],
+			[
+				"actual_d",
+				"DBI/reports/modules/actual_disbursement/ap.adb.generate.php"
+			],
+			[
+				"client_",
+				"DBI/reports/modules/client_listings_status/j.client.listings.status.js"
+			],
+			[
+				"autodebit2",
+				"DBI/reports/modules/autodebit2/ap.autodebit.php"
+			],
+			[
+				"accru",
+				"DBI/reports/modules/time_deposit_accruals/ap.time_deposit_accruals.php"
+			],
+			[
+				"schedule",
+				"DBI/reports/modules/time_deposit_schedule/class.td_schedule_report.php"
+			],
+			[
+				"maf_payment",
+				"DBI/reports/modules/maf_payment/ap.maf_payment.php"
+			],
+			[
+				"client_status",
+				"DBI/reports/modules/client_listings_status/j.client.listings.status.js"
+			],
+			[
+				"check",
+				"DBI/library/lib.checks.php"
+			],
+			[
+				"lib.auto",
+				"DBI/library/lib.autodebit.php"
+			],
+			[
+				"disburse",
+				"DBI/loans/modules/disburseLumpsum/script.disbursement.js"
+			],
+			[
+				"auto",
+				"DBI/reports/modules/autodebit/ap.autodebit.php"
+			],
+			[
+				"ap.auto",
+				"DBI/reports/modules/autodebit2/ap.autodebit.php"
+			],
+			[
+				"ap.autode",
+				"DBI/reports/modules/autodebit/ap.autodebit.php"
+			],
+			[
+				"autodeb",
+				"DBI/library/lib.autodebit.php"
+			],
+			[
+				"timesche",
+				"DBI/reports/modules/time_deposit_schedule/ap.time_deposit_schedule.php"
+			],
+			[
+				"user.php",
+				"DBI/library/User.php"
+			],
+			[
+				"office.php",
+				"DBI/library/Office.php"
+			],
+			[
+				"pay",
+				"DBI/reports/modules/maf_payment/ap.maf_payment.php"
+			],
+			[
+				"transaction_react",
+				"DBI/reports/modules/transaction_reading/ap.report.csv.php"
+			],
+			[
+				"autode",
+				"DBI/reports/modules/autodebit/ap.autodebit.php"
+			],
+			[
+				"transaction_read",
+				"DBI/reports/modules/transaction_reading/ap.generate.php"
+			],
+			[
+				"transaction_reade",
+				"DBI/reports/modules/transaction_reading/ap.generate.php"
+			],
+			[
+				"creditfile",
+				"DBI/classes/class.creditFile.php"
+			],
+			[
+				"ap.au",
+				"DBI/reports/modules/autodebit/ap.autodebit.php"
+			],
+			[
+				"config",
+				"DBI/config/config.db.php"
+			],
+			[
+				"class.cred",
+				"DBI/classes/class.creditFile.php"
+			],
+			[
+				"amla",
+				"DBI/reports/modules/amla/classes/class.AMLAReport.php"
+			],
+			[
+				"ap.dcs",
+				"DBI/reports/modules/dcs/ap.dcs.php"
+			],
+			[
+				"timedepo",
+				"DBI/library/TimeDeposit.php"
+			],
+			[
+				"rollover.php",
+				"DBI/casa/modules/rollover/ap.rollover.php"
+			],
+			[
+				"account.php",
+				"DBI/library/Account.php"
+			],
+			[
+				"partfactory",
+				"DBI/reports/modules/bsp/classes/class.BSPReportPartFactory.php"
+			],
+			[
+				"bspoutre",
+				"DBI/reports/modules/bsp/classes/parts/class.OutreachCentersReportPart.php"
+			],
+			[
+				"style.dcs",
+				"DBI/reports/modules/dcs/style.dcs.css"
+			],
+			[
+				"ui.dcs",
+				"DBI/reports/modules/dcs/ui.dcs.php"
+			],
+			[
+				"script.dcs",
+				"DBI/reports/modules/dcs/script.dcs.js"
+			],
+			[
+				"config.db",
+				"DBI/config/config.db.php"
+			],
+			[
+				"script.maftran",
+				"DBI/reports/modules/maf_transaction_history/script.maf_transaction_history.js"
+			],
+			[
+				"conf",
+				"DBI/config/config.db.php"
+			],
+			[
+				"lib.maf",
+				"DBI/library/lib.maf.php"
+			],
+			[
+				"maftransac",
+				"DBI/reports/modules/maf_transaction_history/ap.maf_transaction_history.php"
+			],
+			[
+				"config.",
+				"DBI/config/config.db.php"
+			],
+			[
+				"maf_tran",
+				"DBI/reports/modules/maf_transaction_history/ap.maf_transaction_history.php"
+			],
+			[
+				"centercoll",
+				"DBI/transactions/modules/dcs_center_collection/ap.dcs_center_collection.php"
+			],
+			[
+				"accountholder",
+				"DBI/reports/modules/amla/classes/models/class.AccountHolderDetail.php"
+			],
+			[
+				"maf_t",
+				"DBI/reports/modules/maf_transaction_history/ap.maf_transaction_history.php"
+			],
+			[
+				"partfact",
+				"DBI/DBI/reports/modules/bsp/classes/class.BSPReportPartFactory.php"
+			],
+			[
+				"maf_tr",
+				"DBI/DBI/reports/modules/maf_transaction_history/ap.maf_transaction_history.php"
+			],
+			[
+				"amla.php",
+				"DBI/DBI/reports/modules/amla/ap.amla.php"
+			],
+			[
+				"member",
+				"DBI/DBI/reports/modules/bsp/classes/parts/class.MemberCentersReportPart.php"
+			],
+			[
+				"termof",
+				"DBI/DBI/reports/modules/bsp/classes/parts/class.TermOfLoans.php"
+			],
+			[
+				"security",
+				"DBI/reports/modules/bsp/classes/parts/class.SecurityReportPart.php"
+			],
+			[
+				"ui.roll",
+				"DBI/casa/modules/rollover/ui.rollover.php"
+			],
+			[
+				"ui.dcs.php",
+				"DBI/reports/modules/dcs/ui.dcs.php"
+			],
+			[
+				"partfac",
+				"DBI/reports/modules/bsp/classes/class.BSPReportPartFactory.php"
+			],
+			[
+				"repaymen",
+				"DBI/reports/modules/bsp/classes/parts/class.RepaymentSchedulePart.php"
+			],
+			[
+				"dcs.php",
+				"DBI/library/DCS.php"
+			],
+			[
+				"ap.dcs.php",
+				"DBI/reports/modules/dcs/ap.dcs.php"
+			],
+			[
+				"reportbuild",
+				"DBI/reports/modules/bsp/classes/class.BSPReportBuilder.php"
+			],
+			[
+				"reportfactor",
+				"DBI/reports/modules/bsp/classes/class.BSPReportPartFactory.php"
+			],
+			[
+				"reportbuil",
+				"DBI/reports/modules/bsp/classes/class.BSPReportBuilder.php"
+			],
+			[
+				"part",
+				"DBI/reports/modules/bsp/classes/class.BSPReportPart.php"
+			],
+			[
+				"class.user",
+				"DBI/classes/class.userinfo.php"
+			],
+			[
+				"header.off",
+				"DBI/header/header.offline.php"
+			],
+			[
+				"header.online",
+				"DBI/header/header.online.php"
+			],
+			[
+				"termoflo",
+				"DBI/reports/modules/bsp/classes/parts/class.TermOfLoans.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "pro",
+		"selected_items":
+		[
+			[
+				"pro",
+				"~/Programs/cordova-automation/sites/projectbb8/projectbb8.sublime-project"
+			],
+			[
+				"proj",
+				"~/Programs/cordova-automation/sites/projectbb8/projectbb8.sublime-project"
+			],
+			[
+				"gall",
+				"~/Programs/py-box/sites/galleries/galleries.sublime-project"
+			],
+			[
+				"scala",
+				"~/Programs/jvm-box/Programs/scala/scala.sublime-project"
+			],
+			[
+				"bsp",
+				"~/Programs/DBI/BSP.sublime-workspace"
+			],
+			[
+				"swi",
+				"~/Programs/switchSimulator/branches/feature-csv-reader/switchSimulator.sublime-project"
+			],
+			[
+				"td",
+				"~/Programs/DBI/TD.sublime-workspace"
+			],
+			[
+				"sw",
+				"~/Programs/switchSimulator/switchSimulator.sublime-project"
+			],
+			[
+				"swit",
+				"~/Programs/switchSimulator/switchSimulator.sublime-project"
+			],
+			[
+				"",
+				"~/Programs/DBI/TD.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 548.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
