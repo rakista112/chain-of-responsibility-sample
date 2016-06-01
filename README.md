@@ -9,7 +9,7 @@ All the Calculations extend AbstractCalculation which implements the calculate m
 does the following:
 
 - uses the Calculation's doCalculate class 
-- if there is a next calculation in the pipeline, passes it to the next Calculation,
+- if there is a next calculation in the pipeline, passes the result to the next Calculation,
 - else, it returns the result and ends the pipeline.
 
 Here is a visual overview of the whole process.
