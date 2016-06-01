@@ -120,34 +120,10 @@
 			}
 		},
 		{
-			"file": "classes/AbstractCalculation.php",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 506,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "classes/DebitCalculation.php",
-			"settings":
-			{
-				"buffer_size": 258,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "classes/TheftCalculation.php",
-			"settings":
-			{
-				"buffer_size": 337,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "classes/CreditCalculation.php",
-			"settings":
-			{
-				"buffer_size": 261,
+				"buffer_size": 147,
 				"line_ending": "Unix"
 			}
 		}
@@ -336,9 +312,15 @@
 	},
 	"expanded_folders":
 	[
+		"/var/www/html/chain"
 	],
 	"file_history":
 	[
+		"/home/rakista112/Downloads/autodebit2016-06-01 (2).csv",
+		"/var/www/html/chain/classes/AbstractCalculation.php",
+		"/var/www/html/chain/classes/DebitCalculation.php",
+		"/var/www/html/chain/classes/TheftCalculation.php",
+		"/var/www/html/chain/classes/CreditCalculation.php",
 		"/var/www/html/chain/classes/ICalculation.php",
 		"/var/www/html/chain/classes/ICalculation2.php",
 		"/var/www/html/maf.php",
@@ -461,12 +443,7 @@
 		"/tmp/sublime-svn-1461561430/SVN",
 		"/home/rakista112/.config/sublime-text-3/Packages/User/SVN.errors.log",
 		"/tmp/sublime-svn-1461558626/SVN",
-		"/tmp/sublime-svn-1461557194/SVN",
-		"/tmp/sublime-svn-1461553844/SVN",
-		"/tmp/sublime-svn-1461550810/SVN",
-		"/home/rakista112/Programs/DBI/index.html",
-		"/home/rakista112/Programs/web/reports/modules/bsp/classes/parts/class.TermOfLoans.php",
-		"/home/rakista112/Programs/web/reports/modules/bsp/classes/class.BSPReportPartFactory.php"
+		"/tmp/sublime-svn-1461557194/SVN"
 	],
 	"find":
 	{
@@ -556,7 +533,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -572,131 +549,48 @@
 						"selection":
 						[
 							[
-								214,
-								214
+								147,
+								147
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 45.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "classes/AbstractCalculation.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 506,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								61,
-								61
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "classes/DebitCalculation.php",
+					"buffer": 1,
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 258,
+						"buffer_size": 147,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								130,
-								130
+								127,
+								127
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "classes/TheftCalculation.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 337,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								57,
-								57
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "classes/CreditCalculation.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 261,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								261,
-								261
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
